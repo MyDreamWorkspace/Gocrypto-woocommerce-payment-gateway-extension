@@ -1,0 +1,21 @@
+{
+    "name": "eligmaltd/gocrypto-pay-php",
+    "description": "GoCrypto Pay",
+    "type": "payments",
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eligmaltd\\GoCryptoPayPHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eligma Ltd."
+        }
+    ],
+    "minimum-stability": "dev"
+}

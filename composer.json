@@ -1,0 +1,15 @@
+{
+    "name": "eligmaltd/gocrypto-pay",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4",
+        "eligmaltd/gocrypto-pay-php": "dev-main"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
